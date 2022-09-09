@@ -1,1 +1,1 @@
-CyberGoldenRetriever.github.io
+CGRetriever.github.io
